@@ -19,4 +19,4 @@ A printed circuit board ([PCB](https://en.wikipedia.org/wiki/Printed_circuit_boa
 ## Cloud
 1. Connect to the Plotter, 
 
-[plotter]: https://github.com/btowner01/mbm-pcbplotter/blob/master/images/PCBcloudPlotter.jpg?raw=true "PCB plotter build v1"
+[plotter]: https://github.com/btowner01/mbm-pcbplotter/blob/master/images/PCBcloudPlotter.png?raw=false "PCB plotter build v1"
