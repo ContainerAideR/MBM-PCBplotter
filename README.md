@@ -25,8 +25,8 @@ You can watch the MBM YouTube channel for this projects play list.  It will incl
 ## B.) Operation & Calibration
 Using the software needed, we will program the Plotter to use GRBL files.  Additionally, we will walk through the design software and options available.  This will help you create your PCBs and go from Digital to Physical.  Calibration techniques are included to obtain the precisions needed for a successful 'print-job'.
 
-## Cloud Integration
-C. Connect to the Plotter, for remote access to the newly created plot and to access previous designs.  On-Click printing operationalizes the device for quick usage and design turn-around.  This enables future usage with our Augmented Reality dashboard projects.
+## C.) Cloud Integration
+Connect to the Plotter, for remote access to the newly created plot design and to access previous designs stored on the Cloud.  One-Click printing operationalizes the device for quick usage and design turn-around.  This enables future usage with our Augmented Reality dashboard projects.
 
 [plotter]: https://github.com/btowner01/mbm-pcbplotter/blob/master/images/PCBcloudPlotter.png?raw=false "PCB plotter build v1"
 [guide]: https://github.com/btowner01/mbm-pcbplotter/blob/master/docs/PCBguide.pdf?raw=false "PCB instructions"
